@@ -1,6 +1,8 @@
-<h1>Breakout</h1>
+<h1 align='center'>Breakout</h1>
 
-<hr>
+![image](https://user-images.githubusercontent.com/50726344/221902406-67b467a7-dfa2-480f-aee8-e47aca466fc9.png)
+
+
 
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=Em%20Desenvolvimento&color=RED&style=for-the-badge" #vitrinedev/>
@@ -9,7 +11,7 @@
 ### Tópicos
 
 - [Descrição do projeto](#descrição-do-projeto)
-- [Metodos e funções](#metodos-e-funçoes)
+- [Metodos e funções](#metodos-e-funções)
 
 ## Descrição do projeto
 
