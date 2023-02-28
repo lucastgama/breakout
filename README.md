@@ -21,27 +21,27 @@ O projeto tem como finalidade melhorar o conhecimento em Javascript com utiliza�
 
 ## Metodos e funções
 
-.querySelector()
-class
-constructor
-this
-.bottomLeft()
-.bottomRight()
-.topLeft()
-.topRight()
-classList.add()
-.createElement()
-.style.top
-.style.left
-.style.bottom
-appendChild()
-e.key
-switch ()
-clearInterval()
-.removeEventListener()
-.length
-.splice()
-classList.remove()
-array.from()
+- .querySelector()
+- class
+- constructor
+- this
+- .bottomLeft()
+- .bottomRight()
+- .topLeft()
+- .topRight()
+- classList.add()
+- .createElement()
+- .style.top
+- .style.left
+- .style.bottom
+- appendChild()
+- e.key
+- switch ()
+- clearInterval()
+- .removeEventListener()
+- .length
+- .splice()
+- classList.remove()
+- array.from()
 
 ##
